@@ -7,15 +7,15 @@
 [CCNY Course Description](https://ccny-undergraduate.catalog.cuny.edu/courses/0556251)
 
 Alex Payne (alex.payne@choderalab.org), Adjunct Assistant Professor, he/him/his  
-Section S, 20179  
-Synchronous sessions (2021): Mondays and Wednesdays 2:00 - 3:15 pm EST/EDT  
+  
+Yuanqing Wang(wangyq@wangyq.net), Adjunct Assistant Professor, he/him/his
+
+Section S, 20179
+Tuesdays & Thursdays 5:00-6:15 pm EST/EDT  
 Office hours:
-I will stay for another 10 minutes after each synchronous class. 
-Contact me (wangyq@wangyq.net) if you want to chat (about anything).
 
 ## Course Description
-In this class, we will explore the connections among _writing, reading, rhetoric, and critical thinking_.
-We will practice writing for different purposes and audiences, and as a community, give, and receive feedbacks for each others' writing.
+An introduction to protein structure and molecular interactions needed for analysis of individual proteins. Focus on proteins that highlight important biophysical properties. Project-based course emphasizing reading and interpretation of the original literature. The groups of protein chosen can be biological machines, including ribosomes and protein synthesis; actin/myosin and muscle motion; kinesin/dynesin, transport, and cellular motion and deformation; and bacterial flagellar action. Alternatively the class can study processes based on transmembrane potential gradients including respiration, photosynthesis and chemiosmotic energy coupling as well as nerve function.
 
 ## Open Education Statement
 All notes of this class will be published in on this website under [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
