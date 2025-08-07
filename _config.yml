@@ -1,3 +1,7 @@
 markdown: GFM
 theme: jekyll-theme-minimal
 author: Alex Payne
+
+plugins:
+  - jekyll-scholar
+
