@@ -4,10 +4,10 @@ title: Foundations of Biophysics
 
 Aug 26
 : Syllabus and Overview
-  : [Slides](https://docs.google.com/presentation/d/1hy6XeYmLZyrZZ1iq2rF0Rq-4h40HUDBP/edit?usp=drive_link&ouid=113229002811879189538&rtpof=true&sd=true)
-  : [Notes](#)
+: [Slides](https://docs.google.com/presentation/d/1hy6XeYmLZyrZZ1iq2rF0Rq-4h40HUDBP/edit?usp=drive_link&ouid=113229002811879189538&rtpof=true&sd=true)
+: [Notes](#)
 
-Aug 28
+[//]: # (Aug 28)
 
 [//]: # (: **Section**{: .label .label-purple }[Intro to Java]&#40;#&#41;)
 
