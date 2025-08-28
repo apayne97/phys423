@@ -59,7 +59,3 @@ Links to all mateirals will be accesible on this GitHub repo and website.
 | 12/9  | Presentations Day 3 |
 | 12/11 | Presentations Day 4 |
 | 12/11 |   Final Paper Due   |
-
-
-## Plagiarism and Academic Integrity (just don't do it.)
-Plagiarism is copying and using other people’s words without proper acknowledgment or citation as it is indicated in the CUNY Policy on Academic Integrity. All writing submitted for this course is understood to be your original work. Plagiarism is unacceptable and has serious consequences that can include a failing grade. In cases where I detect academic dishonesty (the fraudulent submission of another’s work, in whole or part, as your own), you may be subject to a failing grade for the project or the course, and, in the worst case, to academic probation or expulsion. You are expected to read, understand, and adhere to CCNY’s Policy on Academic Integrity, which is available here: https://www.cuny.edu/about/administration/offices/legal-affairs/policies-resources/academic-integrity-policy/

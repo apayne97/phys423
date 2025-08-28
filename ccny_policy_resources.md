@@ -8,6 +8,9 @@ https://www.ccny.cuny.edu/studentaffairs/community-standards
 
 Students are expected to attend every class session of this course and to be on time. If you miss five classes, your final grade will be dropped by one-half of one letter (a 90 to an 85, for example). If you miss six classes, your final grade will be dropped one full letter. If you miss seven classes, you will not be able to pass the course. Consistent late arrivals and early departures will have a negative impact on your grade. I will notify you by email if course absences (for full or partial classes) are having an impact on your grade. If you have special circumstances, please see me. I’m happy to work with you to help you complete this course. 
 
+## Plagiarism and Academic Integrity (just don't do it.)
+Plagiarism is copying and using other people’s words without proper acknowledgment or citation as it is indicated in the CUNY Policy on Academic Integrity. All writing submitted for this course is understood to be your original work. Plagiarism is unacceptable and has serious consequences that can include a failing grade. In cases where I detect academic dishonesty (the fraudulent submission of another’s work, in whole or part, as your own), you may be subject to a failing grade for the project or the course, and, in the worst case, to academic probation or expulsion. You are expected to read, understand, and adhere to CCNY’s Policy on Academic Integrity, which is available here: https://www.cuny.edu/about/administration/offices/legal-affairs/policies-resources/academic-integrity-policy/
+
 ## Student Support Services Program, NAC 6/148
 
 https://www.ccny.cuny.edu/sssp
