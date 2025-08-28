@@ -23,6 +23,16 @@ After class until 7pm.
 ## Course Description
 An introduction to protein structure and molecular interactions needed for analysis of individual proteins with a focus on proteins that highlight important biophysical properties. Project-based course emphasizing reading and interpretation of the original literature. The groups of protein chosen can be biological machines, including ribosomes and protein synthesis; actin/myosin and muscle motion; kinesin/dynesin, transport, and cellular motion and deformation; and bacterial flagellar action. Alternatively the class can study processes based on transmembrane potential gradients including respiration, photosynthesis and chemiosmotic energy coupling as well as nerve function.
 
+## Course Learning Outcomes 
+- Learn how many different biological processes are driven by biophysical machines
+- Understand how form follows function in the evolution of proteins
+- Derive several equations used in biophysics that come from the Boltzmann equation
+- Explain how the function of most proteins depends on their ability to sample different energetic states
+- Use resources like Uniprot and the Protein Data Bank to learn more about proteins
+- Produce a well-research scientific review of what a particular protein does and why it is important for life
+- Communicate complex scientific topics to a class in the form of a presentation
+- Recognize and use terms common to biophysics
+
 ## Open Education Statement
 All notes of this class will be published in on this website under [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
 Should you wish to improve the course materials, submit _issues_ or _pull requests_ to this GitHub repo.
@@ -51,17 +61,5 @@ Links to all mateirals will be accesible on this GitHub repo and website.
 | 12/11 |   Final Paper Due   |
 
 
-## Course Learning Outcomes 
-- Learn how many different biological processes are driven by biophysical machines
-- Understand how form follows function in the evolution of proteins
-- Derive several equations used in biophysics that come from the Boltzmann equation
-- Explain how the function of most proteins depends on their ability to sample different energetic states
-- Use resources like Uniprot and the Protein Data Bank to learn more about proteins
-- Produce a well-research scientific review of what a particular protein does and why it is important for life
-- Communicate complex scientific topics to a class in the form of a presentation
-- Recognize and use terms common to biophysics
-
 ## Plagiarism and Academic Integrity (just don't do it.)
 Plagiarism is copying and using other people’s words without proper acknowledgment or citation as it is indicated in the CUNY Policy on Academic Integrity. All writing submitted for this course is understood to be your original work. Plagiarism is unacceptable and has serious consequences that can include a failing grade. In cases where I detect academic dishonesty (the fraudulent submission of another’s work, in whole or part, as your own), you may be subject to a failing grade for the project or the course, and, in the worst case, to academic probation or expulsion. You are expected to read, understand, and adhere to CCNY’s Policy on Academic Integrity, which is available here: https://www.cuny.edu/about/administration/offices/legal-affairs/policies-resources/academic-integrity-policy/
-
-## [City College Policies and Resources](ccny_policy_resources.md)
