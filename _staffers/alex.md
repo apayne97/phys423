@@ -8,4 +8,4 @@ photo: alex.jpeg
 #  Office Hours: Somewhere on the internet
 ---
 
-[//]: # ([Schedule an appointment]&#40;#&#41;{: .btn .btn-outline })
+Adjunct Assistant Professor, he/him/his
