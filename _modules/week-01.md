@@ -3,7 +3,7 @@ title: Foundations of Biophysics
 ---
 
 Aug 26
-: [Syllabus and Overview](/_lecture_slides/intro_to_phys423.pptx)
+: [Syllabus and Overview](https://docs.google.com/presentation/d/1hy6XeYmLZyrZZ1iq2rF0Rq-4h40HUDBP/edit?usp=drive_link&ouid=113229002811879189538&rtpof=true&sd=true)
   : [1.1](#)
 
 Aug 28
