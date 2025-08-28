@@ -8,14 +8,12 @@ seo:
   name: Just the Class
 ---
 
-# Syllabus: PHYS 42300
+# PHYS 42300
 [![Slack](https://img.shields.io/badge/PHYS42300-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/phys42300/shared_invite/zt-3bvs0yq5v-ZiC3G9ls_W5JDui13A4PwQ)
 
 [CCNY Course Description](https://ccny-undergraduate.catalog.cuny.edu/courses/0556251)
 
-Alex Payne (alex.payne.teaching@gmail.com), Adjunct Assistant Professor, he/him/his  
-  
-Yuanqing Wang(wangyq@wangyq.net), Adjunct Assistant Professor, he/him/his
+Alex Payne (alex.payne.teaching@gmail.com), Adjunct Assistant Professor, he/him/his
 
 Section S, 20179
 Tuesdays & Thursdays 5:00-6:15 pm EST/EDT  
@@ -32,6 +30,7 @@ This is a **ZERO Textbook Cost** course.
 Links to all mateirals will be accesible on this GitHub repo and website.
 
 ## Grading
+
 |           Project            | % of Grade |
 |:----------------------------:|:----------:|
 | Participation and Attendance |     10     |
@@ -61,11 +60,6 @@ Links to all mateirals will be accesible on this GitHub repo and website.
 - Produce a well-research scientific review of what a particular protein does and why it is important for life
 - Communicate complex scientific topics to a class in the form of a presentation
 - Recognize and use terms common to biophysics
-
-## Recommended Resources
-- [YouTube Lecture Series on Biophysics by Erik Lindahl](https://youtube.com/playlist?list=PLuIpgNT2hMwRQKFy4okoNQKiJwM8li3Sz&si=r9QqL61TsxwHP7Xq) 
-- 3Blue1Brown Youtube Series, in particular the [linear algebra series](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=f8CoDHbswzDLVBsn) and the [calculus series](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&si=pudOjOFFTqXDUyzf)
-- [Chemistry - the Central Science](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.))
 
 ## Plagiarism and Academic Integrity (just don't do it.)
 Plagiarism is copying and using other people’s words without proper acknowledgment or citation as it is indicated in the CUNY Policy on Academic Integrity. All writing submitted for this course is understood to be your original work. Plagiarism is unacceptable and has serious consequences that can include a failing grade. In cases where I detect academic dishonesty (the fraudulent submission of another’s work, in whole or part, as your own), you may be subject to a failing grade for the project or the course, and, in the worst case, to academic probation or expulsion. You are expected to read, understand, and adhere to CCNY’s Policy on Academic Integrity, which is available here: https://www.cuny.edu/about/administration/offices/legal-affairs/policies-resources/academic-integrity-policy/

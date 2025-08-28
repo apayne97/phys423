@@ -1,14 +1,10 @@
-# POLICIES AND RESOURCES
-
-## Course Policies
+## CCNY Course Policies
 
 ## CCNY’s Statement on Community Standards
 
 https://www.ccny.cuny.edu/studentaffairs/community-standards
 
-## Attendance 
-
-Instructors can set their own attendance policies. CCNY recommends that students be allowed to miss a total of two weeks of class (4 class sessions for a class that meets twice a week, for example). Here is a sample policy:
+## Attendance
 
 Students are expected to attend every class session of this course and to be on time. If you miss five classes, your final grade will be dropped by one-half of one letter (a 90 to an 85, for example). If you miss six classes, your final grade will be dropped one full letter. If you miss seven classes, you will not be able to pass the course. Consistent late arrivals and early departures will have a negative impact on your grade. I will notify you by email if course absences (for full or partial classes) are having an impact on your grade. If you have special circumstances, please see me. I’m happy to work with you to help you complete this course. 
 
