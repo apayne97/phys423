@@ -7,8 +7,6 @@ seo:
   type: Course
   name: Just the Class
 ---
-
-# PHYS 42300
 [![Slack](https://img.shields.io/badge/PHYS42300-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/phys42300/shared_invite/zt-3bvs0yq5v-ZiC3G9ls_W5JDui13A4PwQ)
 
 [CCNY Course Description](https://ccny-undergraduate.catalog.cuny.edu/courses/0556251)
