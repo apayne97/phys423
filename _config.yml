@@ -40,6 +40,9 @@ collections:
   modules:
   schedules:
   announcements:
+  notes:
+    output: true # Ensures the collection items are rendered as individual pages
+    permalink: /notes/:name/ # Optional: Customize the URL structure
 # Default layouts for each collection type
 defaults:
   - scope:
