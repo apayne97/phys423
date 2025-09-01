@@ -17,7 +17,7 @@ Aug 28
 Sep 02
 : Protein Foundations
 : [Slides]
-: [Protein Structure and Overview](({{site.baseurl}}/notes/protein_structure_and_overview.html))
+: [Protein Structure and Overview](/notes/protein_structure_and_overview.html)
 : [Our Proteins]()
 
 [//]: # (Aug 28)
