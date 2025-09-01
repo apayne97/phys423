@@ -11,14 +11,14 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
- name = "Syllabus"
- pageRef = "Syllabus"
+ name = "Agenda"
+ pageRef = "agenda"
  weight = 10
 
-# [[main]]
-#   name = "Conferences"
-#   pageRef = "conferences"
-#   weight = 20
+[[main]]
+  name = "Resources"
+  pageRef = "resources"
+  weight = 20
 
 #[[main]]
 #  name = "example sub-menu 1"
