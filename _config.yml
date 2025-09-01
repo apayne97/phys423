@@ -18,7 +18,7 @@ tagline: Biophysics in Applications
 description: An introduction to protein structure and molecular interactions needed for analysis of individual proteins with a focus on proteins that highlight important biophysical properties. Project-based course emphasizing reading and interpretation of the original literature. The groups of protein chosen can be biological machines, including ribosomes and protein synthesis; actin/myosin and muscle motion; kinesin/dynesin, transport, and cellular motion and deformation; and bacterial flagellar action. Alternatively the class can study processes based on transmembrane potential gradients including respiration, photosynthesis and chemiosmotic energy coupling as well as nerve function.
 author: Alex Payne
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'http://apayne.org' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'http://phys423.apayne.org' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -77,3 +77,6 @@ compress_html:
 liquid:
   error_mode: strict
   strict_filters: true
+
+kramdown:
+    auto_ids: true

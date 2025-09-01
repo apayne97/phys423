@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Calendar
+title: Agenda
 description: Listing of course modules and topics.
 ---
 
-# Calendar
+# Agenda
 
 {% for module in site.modules %}
 {{ module }}
