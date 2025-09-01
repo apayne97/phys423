@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: PHYS 42300
 nav_exclude: true
 permalink: /:path/
