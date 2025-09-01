@@ -1,0 +1,83 @@
+/* Coral scheme */
+:root {
+  --color-neutral: 255, 255, 255;
+  /* Teal Neutral */
+  --color-neutral-50: 240, 253, 255;
+  --color-neutral-100: 204, 243, 248;
+  --color-neutral-200: 153, 233, 242;
+  --color-neutral-300: 103, 223, 236;
+  --color-neutral-400: 43, 140, 190;
+  --color-neutral-500: 34, 131, 184;
+  --color-neutral-600: 25, 122, 178;
+  --color-neutral-700: 16, 113, 172;
+  --color-neutral-800: 7, 104, 166;
+  --color-neutral-900: 0, 95, 160;
+  /* Coral Primary */
+  --color-primary: 243, 83, 125;
+  --color-primary-50: 255, 245, 246;
+  --color-primary-100: 254, 228, 232;
+  --color-primary-200: 252, 201, 209;
+  --color-primary-300: 250, 159, 181;
+  --color-primary-400: 247, 121, 153;
+  --color-primary-500: 243, 83, 125;
+  --color-primary-600: 225, 47, 96;
+  --color-primary-700: 190, 24, 71;
+  --color-primary-800: 158, 17, 58;
+  --color-primary-900: 134, 15, 50;
+  /* Teal Secondary */
+  --color-secondary-50: 240, 253, 255;
+  --color-secondary-100: 204, 243, 248;
+  --color-secondary-200: 153, 233, 242;
+  --color-secondary-300: 103, 223, 236;
+  --color-secondary-400: 43, 140, 190;
+  --color-secondary-500: 34, 131, 184;
+  --color-secondary-600: 25, 122, 178;
+  --color-secondary-700: 16, 113, 172;
+  --color-secondary-800: 7, 104, 166;
+  --color-secondary-900: 0, 95, 160;
+
+  --link-color: rgb(var(--color-secondary-700));
+  --link-hover-color: rgb(var(--color-secondary-800));
+  /* Alert colors */
+  --alert-primary-bg: rgb(var(--color-primary-100));
+  --alert-primary-text: rgb(var(--color-neutral-900));
+  --alert-primary-border: rgb(var(--color-primary-200));
+
+  --alert-secondary-bg: rgb(var(--color-secondary-100));
+  --alert-secondary-text: rgb(var(--color-secondary-900));
+  --alert-secondary-border: rgb(var(--color-secondary-200));
+
+  --alert-info-bg: rgb(var(--color-neutral-100));
+  --alert-info-text: rgb(var(--color-neutral-900));
+  --alert-info-border: rgb(var(--color-neutral-200));
+
+  --alert-success-bg: rgb(187, 247, 208);
+  --alert-success-text: rgb(20, 83, 45);
+  --alert-success-border: rgb(134, 239, 172);
+
+  --alert-warning-bg: rgb(254, 240, 199);
+  --alert-warning-text: rgb(120, 53, 15);
+  --alert-warning-border: rgb(253, 224, 71);
+
+  --alert-danger-bg: rgb(254, 226, 226);
+  --alert-danger-text: rgb(153, 27, 27);
+  --alert-danger-border: rgb(252, 165, 165);
+
+  /* Button colors */
+  --button-primary-bg: rgb(var(--color-secondary-500));
+  --button-primary-text: rgb(var(--color-neutral-50));
+  --button-primary-border: rgb(var(--color-primary-500));
+  /*--button-primary-hover-bg: rgb(var(--color-primary-600));*/
+  --button-primary-hover-text: rgb(var(--color-neutral-50));
+  --button-primary-hover-border: rgb(var(--color-primary-600));
+
+  --button-secondary-bg: rgb(var(--color-secondary-500));
+  --button-secondary-text: rgb(var(--color-neutral-50));
+  --button-secondary-border: rgb(var(--color-secondary-500));
+  --button-secondary-hover-bg: rgb(var(--color-secondary-600));
+  --button-secondary-hover-text: rgb(var(--color-neutral-50));
+  --button-secondary-hover-border: rgb(var(--color-secondary-600));
+
+  /* Change navigation colors */
+  --nav-link-active: rgb(var(--color-secondary-700));
+}
