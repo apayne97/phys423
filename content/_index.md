@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PHYS 42300
+title: About the Course
 nav_exclude: true
 permalink: /:path/
 seo:
