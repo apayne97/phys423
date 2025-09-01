@@ -16,4 +16,5 @@ cascade:
   showDate: false
   showWordCount: false
   showReadingTime: false
+  showBreadcrumbs: true
 ---

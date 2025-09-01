@@ -26,11 +26,11 @@
  pageRef = "notes"
  weight = 20
 
-#[[main]]
-#  name = "example sub-menu 2"
+[[main]]
+ name = "CCNY Policy and Resources Statement"
 #  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+ pageRef = "ccny_policy_resources"
+ weight = 20
 
 #[[subnavigation]]
 #  name = "An interesting topic"
