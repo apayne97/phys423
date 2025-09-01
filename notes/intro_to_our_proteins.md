@@ -1,5 +1,4 @@
 ---
 layout: page
-title: Protein Structure
-description: Intro to our Proteins of Interest
+title: Intro to our Proteins of Interest
 ---
