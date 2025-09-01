@@ -2,10 +2,18 @@
 title: Foundations of Biophysics
 ---
 
+[Google Drive Link to Slides](https://drive.google.com/drive/folders/14qjGvoKvu2m5D8BEXg-eWjUMfciKxMhc?usp=drive_link)
+
 Aug 26
 : Syllabus and Overview
 : [Slides](https://docs.google.com/presentation/d/1hy6XeYmLZyrZZ1iq2rF0Rq-4h40HUDBP/edit?usp=drive_link&ouid=113229002811879189538&rtpof=true&sd=true)
 : [Notes](#)
+
+Sep 02
+: Protein Foundations
+: [Slides]
+: [Protein Structure and Overview](../_notes/protein_structure_and_overview.md)
+: [Our Proteins](../_notes/intro_to_our_proteins.md)
 
 [//]: # (Aug 28)
 
