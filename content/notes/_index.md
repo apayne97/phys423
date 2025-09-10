@@ -4,7 +4,7 @@ type: list
 showEdit: false
 showSummary: true
 showHero: true
-showBreadcrumbs: true
+showBreadcrumbs: false
 showWordCount: false
 showReadingTime: false
 
@@ -16,5 +16,6 @@ cascade:
   showDate: false
   showWordCount: false
   showReadingTime: false
-  showBreadcrumbs: true
+  showBreadcrumbs: true[]
+  content: true
 ---
