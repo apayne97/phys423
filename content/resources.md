@@ -30,7 +30,10 @@ Please let me know if any of these links do not work!
 ](https://www.youtube.com/watch?v=E6LHoKe-zRU&list=PLuIpgNT2hMwRQKFy4okoNQKiJwM8li3Sz&index=14)
 
 ### General Chemistry
+#### Periodic Trends and Atomic Structure
 [Electron Orbitals](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_%28Physical_and_Theoretical_Chemistry%29/Quantum_Mechanics/09._The_Hydrogen_Atom/Atomic_Theory/Electrons_in_Atoms/Electronic_Orbitals)
+
+#### Thermodynamics
 
 ### Organic Chemistry
 
