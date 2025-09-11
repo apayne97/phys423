@@ -14,6 +14,11 @@ And another fun visualization of aromatic compounds from flowers from [CompoundI
 
 
 Here's a link for the related topic of fluorescence.
+[](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(OpenStax)/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.09%3A_Conjugation_Color_and_the_Chemistry_of_Vision)
+
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(OpenStax)/15%3A_Benzene_and_Aromaticity/15.07%3A_Spectroscopy_of_Aromatic_Compounds
+
+https://www.bocsci.com/upload/image/common-fluorophores.jpg
 
 [Tryptophan-based Fluorophores for Studying Protein Conformational Changes](https://pmc.ncbi.nlm.nih.gov/articles/PMC4254292/)
 
