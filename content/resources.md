@@ -101,7 +101,8 @@ Please let me know if any of these links do not work!
 
 
 
-
+## CCNY Policy and Resources
+[Link to Policy]({{<ref "/ccny_policy_resources.md">}})
 
 
 

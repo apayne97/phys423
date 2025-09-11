@@ -26,11 +26,11 @@
  pageRef = "notes"
  weight = 20
 
-[[main]]
- name = "CCNY Policy and Resources Statement"
-#  parent = "Parent"
- pageRef = "ccny_policy_resources"
- weight = 20
+# [[main]]
+#  name = "CCNY Policy and Resources Statement"
+# #  parent = "Parent"
+#  pageRef = "ccny_policy_resources"
+#  weight = 20
 
 #[[subnavigation]]
 #  name = "An interesting topic"
