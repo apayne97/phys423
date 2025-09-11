@@ -1,7 +1,8 @@
 ---
-layout: page
 title: Protein Structure
+layout: page
 date: 2025-09-09
+showDate: True
 ---
 
 ## Resources
