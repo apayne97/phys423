@@ -21,12 +21,10 @@ showReadingTime: false
 #   showReadingTime: false
 ---
 
-Topics
+## Topics
 [The Boltzmann Distribution]({{< ref "/resources/#the-boltzmann-distribution">}})
 
-Applications of Boltzmann Hidden in Chemical Equilibria
 [Chemical Reactions]({{< ref "/resources/#chemical-reactions">}})
-
 
 [PDF - Simple Boltzmann Derivation](https://drive.google.com/file/d/15eLEAgmApC_zhbzLB9GSIdlLYodf83Wu/view?usp=drive_link)
 
