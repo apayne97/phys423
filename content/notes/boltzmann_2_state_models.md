@@ -21,6 +21,11 @@ showReadingTime: false
 #   showReadingTime: false
 ---
 
+## Summary
+We'll discuss the Boltzmann distribution, derive a specific example of it, and demonstrate its application in the context of several kinds of chemical reactions.
+
+We will build on this for studying [protein dynamics]({{<ref "/notes/protein_dynamics">}}), and then for protein-ligand binding in future talks.
+
 ## Resources
 [The Boltzmann Distribution]({{< ref "/resources/#the-boltzmann-distribution">}})
 
