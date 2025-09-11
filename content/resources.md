@@ -44,6 +44,10 @@ Please let me know if any of these links do not work!
 
 [LibreText - Acid-Base Chemistry](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/16%3A_AcidBase_Equilibria)
 
+[LibreText - Autoionization of Water](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/16%3A_AcidBase_Equilibria/16.03%3A_The_Autoionization_of_Water)
+
+[LibreText - Derivation of Henderson-Hasselbalch](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Henderson-Hasselbalch_Approximation)
+
 [LibreText - Chemical Kinetics](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/14%3A_Chemical_Kinetics)
 
 ### Organic Chemistry
