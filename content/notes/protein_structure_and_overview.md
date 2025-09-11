@@ -17,7 +17,7 @@ And another fun visualization of aromatic compounds from flowers from [CompoundI
 
 [Spectroscopy of Aromatic Compounds](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(OpenStax)/15%3A_Benzene_and_Aromaticity/15.07%3A_Spectroscopy_of_Aromatic_Compounds)
 
-{{< ref "https://www.bocsci.com/upload/image/common-fluorophores.jpg"}}
+[Some pretty fluorophore examples](https://www.bocsci.com/upload/image/common-fluorophores.jpg)
 
-[Tryptophan-based Fluorophores for Studying Protein Conformational Changes](https://pmc.ncbi.nlm.nih.gov/articles/PMC4254292/)
+[Paper - Tryptophan-based Fluorophores for Studying Protein Conformational Changes](https://pmc.ncbi.nlm.nih.gov/articles/PMC4254292/)
 
