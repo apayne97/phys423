@@ -26,25 +26,25 @@ Please let me know if any of these links do not work!
 ## Foundational Concepts
 
 ### Biology
-[Lecture 01, concept 12: The central dogma of molecular biology
+[YouTube - Lecture 01, concept 12: The central dogma of molecular biology
 ](https://www.youtube.com/watch?v=E6LHoKe-zRU&list=PLuIpgNT2hMwRQKFy4okoNQKiJwM8li3Sz&index=14)
 
 ### General Chemistry
 #### Periodic Trends and Atomic Structure
-[Electron Orbitals](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_%28Physical_and_Theoretical_Chemistry%29/Quantum_Mechanics/09._The_Hydrogen_Atom/Atomic_Theory/Electrons_in_Atoms/Electronic_Orbitals)
+[LibreText - Electron Orbitals](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_%28Physical_and_Theoretical_Chemistry%29/Quantum_Mechanics/09._The_Hydrogen_Atom/Atomic_Theory/Electrons_in_Atoms/Electronic_Orbitals)
 
-[Molecular Geometry and Bonding Theories](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/09%3A_Molecular_Geometry_and_Bonding_Theories)
+[LibreText - Molecular Geometry and Bonding Theories](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/09%3A_Molecular_Geometry_and_Bonding_Theories)
 
 #### Chemical Reactions
-[Chemical Equilibrium](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/15%3A_Chemical_Equilibrium)
+[LibreText - Chemical Equilibrium](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/15%3A_Chemical_Equilibrium)
 
-[Chemical Thermodynamics](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/19%3A_Chemical_Thermodynamics)
+[LibreText - Chemical Thermodynamics](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/19%3A_Chemical_Thermodynamics)
 
-[Redox Reactions](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/20%3A_Electrochemistry/20.05%3A_Gibbs_Energy_and_Redox_Reactions)
+[LibreText - Redox Reactions](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/20%3A_Electrochemistry/20.05%3A_Gibbs_Energy_and_Redox_Reactions)
 
-[Acid-Base Chemistry](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/16%3A_AcidBase_Equilibria)
+[LibreText - Acid-Base Chemistry](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/16%3A_AcidBase_Equilibria)
 
-[Chemical Kinetics](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/14%3A_Chemical_Kinetics)
+[LibreText - Chemical Kinetics](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/14%3A_Chemical_Kinetics)
 
 ### Organic Chemistry
 
@@ -61,7 +61,7 @@ Please let me know if any of these links do not work!
 [LibreText - Backbone Dihedrals and Ramachandran Plots](https://bio.libretexts.org/Bookshelves/Biochemistry/Fundamentals_of_Biochemistry_(Jakubowski_and_Flatt)/01%3A_Unit_I-_Structure_and_Catalysis/04%3A_The_Three-Dimensional_Structure_of_Proteins/4.01%3A_Main_Chain_Conformations)
 
 #### Protein Dynamics
-[Lecture 03, concept 01: Interactions and their role for flexibility in amino acids
+[YouTube - Lecture 03, concept 01: Interactions and their role for flexibility in amino acids
 ](https://www.youtube.com/watch?v=wpLZm3qS1PE&list=PLuIpgNT2hMwRQKFy4okoNQKiJwM8li3Sz&index=41)
 
 #### ATP hydolysis
@@ -70,14 +70,14 @@ Please let me know if any of these links do not work!
 
 ### Statistical Mechanics
 #### The Boltzmann Distribution
-[Lecture 03, concept 04: Deriving the Boltzmann distribution (a special case)](https://www.youtube.com/watch?v=_6AFgt2gkr0&list=PLuIpgNT2hMwTyjpKVevMHUofykrXFtNVW&index=4)
+[YouTube - Lecture 03, concept 04: Deriving the Boltzmann distribution (a special case)](https://www.youtube.com/watch?v=_6AFgt2gkr0&list=PLuIpgNT2hMwTyjpKVevMHUofykrXFtNVW&index=4)
 
-[Lecture 03, concept 05: Relative populations in states](https://www.youtube.com/watch?v=3XyGqsgBpIM&list=PLuIpgNT2hMwTyjpKVevMHUofykrXFtNVW&index=5)
+[YouTube - Lecture 03, concept 05: Relative populations in states](https://www.youtube.com/watch?v=3XyGqsgBpIM&list=PLuIpgNT2hMwTyjpKVevMHUofykrXFtNVW&index=5)
 
-[Lecture 03, concept 06: Entropy and free energy - accounting for multiplicity/volume
+[YouTube - Lecture 03, concept 06: Entropy and free energy - accounting for multiplicity/volume
 ](https://www.youtube.com/watch?v=Lq8GwTlJ9Z8&list=PLuIpgNT2hMwTyjpKVevMHUofykrXFtNVW&index=6)
 
-[Lecture 03, concept 07: Microstates vs. Macrostates (multiplicity vs. disorder)
+[YouTube - Lecture 03, concept 07: Microstates vs. Macrostates (multiplicity vs. disorder)
 ](https://www.youtube.com/watch?v=lKyrJhN8MFY&list=PLuIpgNT2hMwTyjpKVevMHUofykrXFtNVW&index=7)
 
 ## Our Proteins
