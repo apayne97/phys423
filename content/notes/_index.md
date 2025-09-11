@@ -1,5 +1,5 @@
 ---
-title: "Topic Notes"
+title: "Class Notes"
 type: list
 showEdit: false
 showSummary: true

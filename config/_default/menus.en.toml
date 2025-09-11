@@ -21,7 +21,7 @@
   weight = 20
 
 [[main]]
- name = "Topic Notes"
+ name = "Class Notes"
 #  parent = "Parent"
  pageRef = "notes"
  weight = 20
