@@ -26,4 +26,4 @@ Mark Polk, a research technician in the Chodera Lab will giving a talk on experi
 The lecture will be given over zoom, where cameras are expected to be on!
 
 ## Resources
-I added some in the after class notes [here]({{<ref "/notes/protein_structure_and_overview">}})
+I added some relevent resources in the after class notes for last Tuesday [here]({{<ref "/notes/protein_structure_and_overview">}})
