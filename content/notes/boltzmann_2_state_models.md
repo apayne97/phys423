@@ -21,7 +21,7 @@ showReadingTime: false
 #   showReadingTime: false
 ---
 
-## Resources Links
+## Resources
 [The Boltzmann Distribution]({{< ref "/resources/#the-boltzmann-distribution">}})
 
 [Chemical Reactions]({{< ref "/resources/#chemical-reactions">}})
