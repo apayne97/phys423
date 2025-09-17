@@ -40,6 +40,8 @@ Please let me know if any of these links do not work!
 
 [LibreText - Chemical Thermodynamics](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/19%3A_Chemical_Thermodynamics)
 
+[LibreText - Nernst Equation](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry/Nernst_Equation)
+
 [LibreText - Redox Reactions](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/20%3A_Electrochemistry/20.05%3A_Gibbs_Energy_and_Redox_Reactions)
 
 [LibreText - Acid-Base Chemistry](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/16%3A_AcidBase_Equilibria)
