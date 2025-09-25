@@ -1,5 +1,5 @@
 ---
-title: "Protein Dynamics - Guest Lecture"
+title: "Protein Structure Determination and Dynamics - Guest Lecture"
 type: page
 date: 2025-09-18
 showDate: True
