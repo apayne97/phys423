@@ -13,7 +13,12 @@
 [[main]]
  name = "Agenda"
  pageRef = "agenda"
- weight = 10
+ weight = 20
+
+[[main]]
+ name = "Our Proteins"
+ pageRef = "our_proteins"
+ weight = 20
 
 [[main]]
   name = "Resources"
