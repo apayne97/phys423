@@ -49,11 +49,12 @@ Links to all mateirals will be accesible on this GitHub repo and website.
 
 ## Key Dates
 
-| Date  |       Project       |
-|:-----:|:-------------------:|
-| 9/30  | Protein Flash Talks | 
-| 12/2  | Presentations Day 1 |
-| 12/4  | Presentations Day 2 |
-| 12/9  | Presentations Day 3 |
-| 12/11 | Presentations Day 4 |
-| 12/11 |   Final Paper Due   |
+| Date  |          Project        |
+|:-----:|:-----------------------:|
+| 10/7  |   Protein Flash Talks 1 |
+| 11/11 | Protein Flash Talks Day 2 |
+| 12/2  |    Presentations Day 1  |
+| 12/4  |    Presentations Day 2  |
+| 12/9  |    Presentations Day 3  |
+| 12/11 |    Presentations Day 4  |
+| 12/11 |      Final Paper Due    |
