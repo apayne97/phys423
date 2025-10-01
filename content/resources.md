@@ -2,6 +2,9 @@
 layout: article
 title: Class Reading and Resources
 date: 2025-09-09
+showDate: false
+showWordCount: false
+showReadingTime: false
 ---
 Please let me know if any of these links do not work!
 

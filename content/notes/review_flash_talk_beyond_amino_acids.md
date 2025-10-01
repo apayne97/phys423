@@ -27,5 +27,3 @@ showReadingTime: false
 
 [List of Proteins to Choose From]({{<ref "our_proteins">}})
 
-[Link for ]
-
